@@ -1,4 +1,4 @@
-<?php rayhan
+<?php rayhan uddin
 
 	require_once "config.php";
 	$id = $_GET['id'];
