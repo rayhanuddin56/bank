@@ -1,4 +1,4 @@
-<?php 
+<?php rayhan
 
 	require_once "config.php";
 	$id = $_GET['id'];
